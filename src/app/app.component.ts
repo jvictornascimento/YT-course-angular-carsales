@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'YT-course-carsales';
+  title = 'Bem vidno ao curso de frontEnd com Aingular';
 }
